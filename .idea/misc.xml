@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\samma\anaconda3" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
+  <component name="RMarkdownSettings">
+    <option name="renderProfiles">
+      <map>
+        <entry key="file://$USER_HOME$/DataSpell/Assignment2_1_Thorpe_620140497.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataSpell/Assignment2_1_Thorpe_620140497.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/R.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataSpell/R.nb.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/Statistical Computing Project/Assignments/Assignment 2.1.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataSpell/Statistical Computing Project/Assignments/Assignment-2.1.nb.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell/Statistical Computing Project/Assignments" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/Statistical Computing Project/Assignments/Assignment-2.1.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataSpell/Statistical Computing Project/Assignments/Assignment-2.1.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell/Statistical Computing Project/Assignments" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/Statistical Computing Project/R.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell/Statistical Computing Project" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/Statistical Computing Workshops/Lecture 1.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell/Statistical Computing Workshops" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/Statistical Computing Workshops/Worksheet  2/Worksheet 2.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell/Statistical Computing Workshops/Worksheet  2" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/Statistical Computing Workshops/Worksheet  3/Worksheet 1.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell/Statistical Computing Workshops/Worksheet  3" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/Statistical Computing Workshops/Worksheet 1/Worksheet  1.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataSpell/Statistical Computing Workshops/Worksheet 1/Worksheet--1.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell/Statistical Computing Workshops/Worksheet 1" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataSpell/sangee.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataSpell" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
